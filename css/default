@@ -6,7 +6,7 @@ p span{
 }
 
 .syumi-rei{
-  floar: left;
+  float: left;
 }
 
 caption{
