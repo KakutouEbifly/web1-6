@@ -2,7 +2,7 @@
 
 p span{
   font-size: 1.75em;
-   color: red;
+   color: #ff0000;
 }
 
 .syumi-rei{
@@ -14,18 +14,18 @@ caption{
 }
 
 #syumiName{
-  background-color: red;
+  background-color: #ff0000;
 }
 
 thead th{
   color: white;
-  background-color: lightyellow;
+  background-color: #ffff00;
   text-align: senter;
 }
 
 thead td{
-  color: white;
-  background-color: blue;
+  color: #f0f8ff;
+  background-color: #0000ff;
   texe-align: center;
 }
 
