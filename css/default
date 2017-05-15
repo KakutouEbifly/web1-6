@@ -39,3 +39,7 @@ table{
   border: green 1px solid;
   baxkground-color: #000000;
 }
+
+#syumi{
+  border: 2px; solid red;
+}
