@@ -8,3 +8,23 @@ p span{
 .syumi-rei{
   floar: left;
 }
+
+caption{
+  padding: 10px;
+}
+
+#syumiName{
+  background-color: red;
+}
+
+thead th{
+  color: white;
+  background-color: lightyellow;
+  text-align: senter;
+}
+
+thead td{
+  color: white;
+  background-color: blue;
+  texe-align: center;
+}
