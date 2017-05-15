@@ -28,3 +28,8 @@ thead td{
   background-color: blue;
   texe-align: center;
 }
+
+.bottom{
+  -webkit-appearance: none;
+  maggin: 1px;
+}
