@@ -33,3 +33,9 @@ thead td{
   -webkit-appearance: none;
   maggin: 1px;
 }
+
+table{
+  padding: 40px 80px;
+  border: green 1px solid;
+  baxkground-color: #000000;
+}
